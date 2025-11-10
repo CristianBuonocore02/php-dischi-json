@@ -1,0 +1,44 @@
+[
+    {
+        "titolo": "The Dark Side of the Moon",
+        "artista": "Pink Floyd",
+        "url_della_cover": "https://upload.wikimedia.org/wikipedia/en/3/3b/Dark_Side_of_the_Moon.png",
+        "anno_di_pubblicazione": 1973,
+        "genere": "Rock progressivo"
+    },
+    {
+        "titolo": "Thriller",
+        "artista": "Michael Jackson",
+        "url_della_cover": "https://upload.wikimedia.org/wikipedia/en/5/55/Michael_Jackson_-_Thriller.png",
+        "anno_di_pubblicazione": 1982,
+        "genere": "Pop"
+    },
+    {
+        "titolo": "Nevermind",
+        "artista": "Nirvana",
+        "url_della_cover": "https://upload.wikimedia.org/wikipedia/en/b/b7/NirvanaNevermindalbumcover.jpg",
+        "anno_di_pubblicazione": 1991,
+        "genere": "Grunge"
+    },
+    {
+        "titolo": "Abbey Road",
+        "artista": "The Beatles",
+        "url_della_cover": "https://upload.wikimedia.org/wikipedia/en/4/42/Beatles_-_Abbey_Road.jpg",
+        "anno_di_pubblicazione": 1969,
+        "genere": "Rock / Pop"
+    },
+    {
+        "titolo": "Rumours",
+        "artista": "Fleetwood Mac",
+        "url_della_cover": "https://upload.wikimedia.org/wikipedia/en/f/fb/FMacRumours.PNG",
+        "anno_di_pubblicazione": 1977,
+        "genere": "Rock / Soft rock"
+    },
+    {
+        "titolo": "OK Computer",
+        "artista": "Radiohead",
+        "url_della_cover": "https://upload.wikimedia.org/wikipedia/en/b/ba/Radioheadokcomputer.png",
+        "anno_di_pubblicazione": 1997,
+        "genere": "Rock alternativo"
+    }
+]
